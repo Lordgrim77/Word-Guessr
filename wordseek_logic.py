@@ -174,7 +174,7 @@ async def handler(event):
         return
 
 async def main():
-    print("Starting LIGHTNING SPEED Farmer...")
+    print("Starting...")
     await client.start()
     print("Logged in!")
     print("Go to your group and type '/new5' to pull the trigger.")
